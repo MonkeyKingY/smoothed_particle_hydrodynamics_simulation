@@ -1,0 +1,2 @@
+# smoothed_particle_hydrodynamics_simulation
+采用基于光滑粒子动力学(SPH)的方法实现了三维流体的模拟
