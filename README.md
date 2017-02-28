@@ -11,5 +11,6 @@
 > [多簇流体粒子落入场景](http://player.youku.com/player.php/sid/XMjUzNDI3OTM4NA==/v.swf)   
 
 ![image](http://github.com/MonkeyKingY/smoothed_particle_hydrodynamics_simulation/Picture/1.jpg "github") 
+![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
  
 
