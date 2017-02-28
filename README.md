@@ -1,6 +1,4 @@
-# smoothed_particle_hydrodynamics_simulation
-
-### 基于光滑粒子动力学(SPH)的流体模拟demo展示
+# 基于光滑粒子动力学(SPH)的流体模拟demo展示
 >  
 > #### 堤坝场景：
 > ![image](https://github.com/MonkeyKingY/smoothed_particle_hydrodynamics_simulation/raw/master/Picture/1.jpg) 
